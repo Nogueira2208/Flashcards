@@ -1,35 +1,35 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
-)
-
-criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
-)
-
-criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Biologia',
+    'O que é um alelo?',
+    'Um alelo é uma das diferentes formas de um gene que ocupa a mesma posição em cromossomos homólogos.'
 )
 
 criaCartao(
     'Biologia',
-    'Quem é considerado o pai da genética?',
-    'Gregor Mendel'
+    'Qual é a função do DNA?',
+    'Armazena a informação genética que orienta o desenvolvimento, funcionamento e a reprodução.'
 )
 
 criaCartao(
-    'Matemática',
-    'Qual é o valor de Pi?',
-    '3,14'
+    'Biologia',
+    'O que é mutação genética?',
+    'É uma alteração na sequência de nucleotídeos do DNA.'
+)
+
+criaCartao(
+    'Biologia',
+    'O que significa ser homozigoto?',
+    'Significa ter dois alelos iguais para uma determinada característica.'
+)
+
+criaCartao(
+    'Biologia',
+    'O que é um genoma?',
+    'É o conjunto completo de material genético de um organismo.'
+)
+
+criaCartao(
+    'Biologia',
+    'O que é um cromossomo?',
+    'É uma estrutura em forma de fio composto por DNA e proteínas.'
 )
